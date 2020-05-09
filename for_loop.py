@@ -7,3 +7,5 @@ Created on Sat May  9 18:09:39 2020
 
 for name in range(10):
     print('Tushar')
+    
+print('Done with for loop.')
